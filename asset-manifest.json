@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-uja/static/css/main.40cb1884.css",
+    "main.js": "/todo-uja/static/js/main.c868f402.js",
+    "static/js/453.37753ddd.chunk.js": "/todo-uja/static/js/453.37753ddd.chunk.js",
+    "index.html": "/todo-uja/index.html",
+    "main.40cb1884.css.map": "/todo-uja/static/css/main.40cb1884.css.map",
+    "main.c868f402.js.map": "/todo-uja/static/js/main.c868f402.js.map",
+    "453.37753ddd.chunk.js.map": "/todo-uja/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40cb1884.css",
+    "static/js/main.c868f402.js"
+  ]
+}
